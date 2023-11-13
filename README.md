@@ -1,7 +1,7 @@
 # Tableau-Sales_Report-Global_Superstore
 Uncover sales insights with this interactive Tableau report. Explore overall sales, top customers and products, and monthly sales trends.
 
-View the comprehensive sales report [here]([link URL](https://public.tableau.com/app/profile/minas.katsoglou/viz/SalesReport-GlobalSuperstore/SalesPerformanceReport-Story?publish=yes))
+View the comprehensive sales report [here](https://public.tableau.com/app/profile/minas.katsoglou/viz/SalesReport-GlobalSuperstore/SalesPerformanceReport-Story?publish=yes)
 
 **Description:**
 
